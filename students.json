@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "avatar": "/head-img/1.jpg",
+    "studyDuration": {
+      "2024-06": 10,
+      "2024-07": 15,
+      "2024-08": 20,
+      "2024-09": 5
+    },
+    "certificates": [
+      "Web Development",
+      "React Basics",
+      "Node.js Mastery"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "avatar": "/head-img/2.jpg",
+    "studyDuration": {
+      "2024-06": 25,
+      "2024-07": 30,
+      "2024-08": 18,
+      "2024-09": 7
+    },
+    "certificates": [
+      "Python Programming",
+      "Data Structures"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "avatar": "/head-img/3.jpg",
+    "studyDuration": {
+      "2024-06": 5,
+      "2024-07": 12,
+      "2024-08": 22,
+      "2024-09": 8
+    },
+    "certificates": [
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "avatar": "/head-img/4.jpg",
+    "studyDuration": {
+      "2024-06": 8,
+      "2024-07": 16,
+      "2024-08": 18,
+      "2024-09": 12
+    },
+    "certificates": [
+      "JavaScript Essentials",
+      "Vue.js Advanced"
+    ]
+  }
+]
